@@ -1,3 +1,3 @@
-ds-Iri25
+Dynamic System
 
-Dynamic system problems
+Some dynamic system issues solved using Jupyter Notebook.
