@@ -1,3 +1,3 @@
-Dynamic System
+Dynamic Systems
 
-Some dynamic system issues solved using Jupyter Notebook.
+Some dynamic systems issues solved using Jupyter Notebook.
