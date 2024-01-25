@@ -1,5 +1,5 @@
 # dynamic-systems
-Jupyter Notebook project that contains 6 folders with different types of exercises and related solutions.
+Jupyter Notebook project that contains 6 folders with different types of dynamic systems problems and related solutions.
 
 Folder [Laborator 1](https://github.com/Iri25/dsys-Iri25/tree/main/Laborator%201) contains several calculation exercises, equations and systems of equations, limits, derivatives of functions, integrals, graphic representation of some functions and curves.
 
